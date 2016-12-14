@@ -1,6 +1,9 @@
 Prezto — Instantly Awesome Zsh
 ==============================
 
+*My own version of Prezto, the original can be found [here](https://github.com/sorin-ionescu/prezto)*
+
+
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
 interface environment with sane defaults, aliases, functions, auto completion,
 and prompt themes.
@@ -17,7 +20,7 @@ version is 4.3.17.
 
   2. Clone the repository:
 
-        git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+        git clone --recursive https://github.com/andersem/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
   3. Create a new Zsh configuration by copying the Zsh configuration files
      provided:
